@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+  accent-color: #876700;
+}
